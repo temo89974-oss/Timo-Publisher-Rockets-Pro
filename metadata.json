@@ -1,0 +1,6 @@
+{
+  "name": "PublisherRocket Pro - KDP Market Research & White-Label Intelligence Suite",
+  "description": "The ultimate free, white-label book research platform for Amazon KDP authors & publishers: keywords discovery, competition analyzer, category finder, Amazon ads generator, and custom agency PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
